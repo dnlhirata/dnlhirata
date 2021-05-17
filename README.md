@@ -18,6 +18,6 @@ I'm a **full-stack developer** since 2018 and with each passing day I fall more 
 
 Here to find me:
 
-<a href="https://www.linkedin.com/in/daniel-hirata"><img src="https://github.com/dnlhirata/dnlhirata/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/daniel-hirata)
+<a href="https://www.linkedin.com/in/daniel-hirata"><img src="https://github.com/dnlhirata/dnlhirata/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/daniel-hirata)
 
-<a href="https://twitter.com/danthedev1"><img src="https://github.com/dnlhirata/dnlhirata/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/danthedev1)
+<a href="https://twitter.com/danthedev1"><img src="https://github.com/dnlhirata/dnlhirata/blob/main/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/danthedev1)
