@@ -21,3 +21,5 @@ Where to find me:
 <a href="https://www.linkedin.com/in/daniel-hirata"><img src="https://github.com/dnlhirata/dnlhirata/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/daniel-hirata)
 
 <a href="https://twitter.com/danthedev1"><img src="https://github.com/dnlhirata/dnlhirata/blob/main/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/danthedev1)
+
+![](https://komarev.com/ghpvc/?username=dnlhirata&color=blue&style=flat)
