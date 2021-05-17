@@ -1,16 +1,23 @@
+![Daniel Hirata](https://user-images.githubusercontent.com/18381909/118509752-b6d48580-b706-11eb-9f98-aead016e000f.png)
 ### Hi there 👋
 
-<!--
-**dnlhirata/dnlhirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full-stack developer** since 2018 and with each passing day I fall more in love for this field. Love to discover and study new techs that can be applied to our day-to-day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlhirata&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=dnlhirata&theme=dracula"/></td>
+    </tr>   
+</table>
+</center>
+
+---
+
+Here to find me:
+
+<a href="https://www.linkedin.com/in/daniel-hirata"><img src="https://github.com/dnlhirata/dnlhirata/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/daniel-hirata)
+
+<a href="https://twitter.com/danthedev1"><img src="https://github.com/dnlhirata/dnlhirata/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/danthedev1)
