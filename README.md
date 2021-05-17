@@ -16,7 +16,7 @@ I'm a **full-stack developer** since 2018 and with each passing day I fall more 
 
 ---
 
-Here to find me:
+Where to find me:
 
 <a href="https://www.linkedin.com/in/daniel-hirata"><img src="https://github.com/dnlhirata/dnlhirata/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/daniel-hirata)
 
