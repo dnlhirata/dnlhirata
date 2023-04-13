@@ -3,18 +3,6 @@
 
 I'm a **full-stack developer** since 2018 and with each passing day I fall more in love for this field. Love to discover and study new techs that can be applied to our day-to-day.
 
----
-
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlhirata&hide=html&layout=compact&theme=dracula" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=dnlhirata&theme=dracula"/></td>
-    </tr>   
-</table>
-</center>
-
----
 
 Where to find me:
 
